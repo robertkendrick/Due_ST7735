@@ -44,7 +44,7 @@
 #define PROGMEM //bobk
 #endif
 
-//bobk -- from UTFT
+//bobk
 // *** Hardwarespecific defines ***
 #ifdef __arm__
 #define cbi(reg, bitmask) *reg &= ~bitmask
